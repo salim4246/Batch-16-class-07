@@ -1,0 +1,20 @@
+
+CSS = CASECADING STYLE SHEET
+================================
+
+1. inline = CSS
+2. internal = CSS
+3. external = CSS
+============================
+
+
+
+SOME SPECIAL TAG
+=====================
+
+<section></section> = tag
+<style></style> = tag 
+<script></script> = tag
+<div></div> = tag
+
+
